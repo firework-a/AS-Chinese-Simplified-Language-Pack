@@ -2,6 +2,8 @@
 
 基于zh.242.152汉化包的版本适配修改，适用于最新版本Android Studio汉化
 
+[![Powered by OrcaRouter](https://img.shields.io/badge/Powered_by-OrcaRouter-2563eb)](https://www.orcarouter.ai/ref/ref_d93e68ebf77657903a0f)
+
 ------
 
 ## 前言
