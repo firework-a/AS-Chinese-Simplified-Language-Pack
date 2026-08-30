@@ -1,3 +1,5 @@
+
+
 # 最新版Android Studio汉化包
 
 基于zh.242.152汉化包的版本适配修改，适用于最新版本Android Studio汉化
@@ -8,7 +10,7 @@
 
 ## 前言
 
-#### Keywords:Andriod Studio最新汉化包，兼容beta版本。
+#### Keywords:Android Studio最新汉化包，兼容beta版本。
 
 #### 我们都知道，Android Studio的汉化可以直接使用IntelliJ IDEA的汉化包，但是由于Android Studio更新了版本，最新版本243*，但是IntelliJ IDEA汉化包最新版是242*，所以一旦你更新了最新版本，常规途径下只要汉化包不更新你将无法使用汉化，但实际上我们常用的菜单项通常不会变化，没必要一直更新汉化包那么麻烦，由此，我修改了版本适配供大家直接使用，版本适配修改为249*，理论上不用怕以后的更新了。
 
